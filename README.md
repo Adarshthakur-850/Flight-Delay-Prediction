@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flight Delay Prediction using Airline Operational Data
 
 ## Overview
@@ -18,3 +19,7 @@ A production-quality ML system to predict flight delays based on airline, airpor
 ## Features
 - **Target**: `is_delayed` (Arrival Delay > 15 minutes)
 - **Models**: Logistic Regression, Random Forest, XGBoost
+=======
+# Flight-Delay-Prediction
+ml project
+>>>>>>> ba6318cd46120d88b746b23f617f63f036e83d76
